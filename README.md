@@ -32,7 +32,7 @@
 
 **[Hello_Microverse]** is a project to learn best practices about workflow of git and github.
 
-## 🛠 Built With <a name="built-with-">'Jonathan-Arias'</a>
+## 🛠 Built With <a name="built-with-">'Juan pablo Quintero'</a>
 
 ### Tech Stack <a name="tech-stack">HTML, CSS</a>
 
@@ -116,10 +116,10 @@ No tests needed at the moment
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Jonathan Arias Gallego**
+👤 **Juan Pablo Quintero**
 
-- GitHub: [sinruidotec](https://github.com/sinruidotec)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/jonathan-undefined-385b3926a/)
+- GitHub: [Juan Pablo Quintero](https://github.com/Gatofrances123)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juan-pablo-quintero-casadiego-98868217a/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
